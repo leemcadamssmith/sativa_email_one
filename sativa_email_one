@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><!--  Zetiva Building Systems  --> 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+  
+        
+@media only screen and (max-width: 600px) {
+        header {
+       
+       
+       background-image:url("https://imgur.com/hK9Qa7K") ;
+       background-size: 100%; 
+       height: 400px;
+
+}
+    }
+
+    body{
+        background-color:whitesmoke;
+    }
+    header{
+       
+       
+        background-image:url("https://www.sativabuildingsystems.com/wp-content/uploads/2019/08/315.JPG-930x620.jpg") ;
+        background-size: 600px; 
+        height: 380px;
+ color:whitesmoke;
+ text-align: center;
+ padding: 4px;
+ font-family: 'Arial';
+ border-radius: 5%;
+ }
+ #email {
+   
+     background-color: whitesmoke;
+margin: auto;
+    width: 100%;
+ max-width: 600px;
+ min-width: 20px;
+ font-family: 'Trebuchet MS';
+
+ }
+ .story{
+     text-align: left;
+     text-indent: 2ch;
+     padding: 6px;
+ }
+.details{
+    padding: 4px;
+    text-align: left;
+    height: 300px;
+
+background-color: white;
+border-radius: 10%;
+text-indent: 2ch;
+
+}
+
+#lorem{
+    width: 50%;
+    float: left;
+    line-height: 120%;
+    text-align: left;
+font-size: 90%;
+}
+#side{
+    width: 50%;
+    
+    float: right;
+    border-radius: 10%;
+    
+}    
+
+
+.cta{
+
+    padding: 4px;
+    margin-top: 2vw;
+    width: 100%;
+    text-align: center;
+    background-color: whitesmoke;
+    text-decoration: none;
+    background-image: image("https://pngtree.com/freepng/invest-vector-icon_5273908.html");
+}
+button {
+    padding: 20px;  
+    font-size: 30px;
+    border-style: hidden;
+    background-color: whitesmoke;
+    
+    
+}
+button >a {
+    text-decoration: none;
+    color: black;
+    
+
+}
+button >a:hover {
+    text-decoration: none;
+    color: teal;
+    font-size: 40px;
+
+}
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    border-radius: 30%;
+    
+
+}
+footer >a{
+    text-decoration: none;
+    color: whitesmoke ;
+    width: 20vw;
+}
+
+    </style>
+</head>
+<body>
+    <div id="email">
+<header>
+    <H1> What would you do for your daughter?</H1>
+</header>
+<br>
+    <div class="story">
+        <p>
+            10 years ago, my daughter suffered from respiratory illness due to mold growth in our home.  I wanted to develop a better home with better materials, and that is when I started researching hempcrete as a building material. Not to mention, the positive environmental impact a bio-composite like the Z Panel can have. 
+        </p>
+    </div>
+    <br>
+
+    <div class="details">
+<h1>How do Z-Panels work?</h1>
+<p id="lorem">Truly ideal for any climate, it transmits humidity and regulates indoor air moisture. Hempcrete is meant to last exceptionally long as it at has a symbiotic relationship with the environment around it. As hemp production takes off in the US, we will truly be building the future.</p>
+
+<img id="side"src="https://www.sativabuildingsystems.com/wp-content/uploads/2019/08/DSC_0966.jpg" alt="panels">
+
+    </div>
+  
+    <div class="cta">
+        <button>
+            <a href="https://wefunder.com/sativa.building.systems">
+            Click Here <br> To Invest in the Future
+        </a>
+        </button>
+    </div>
+    <br>
+<footer>
+    
+<!--link to wix website when you click the contact info -->
+<a href="https://www.sativabuildingsystems.com/">
+    <img src="https://www.sativabuildingsystems.com/wp-content/uploads/elementor/thumbs/imageedit_1_6835710279-1-occ0g8utufn8euzom8adebvri96q31iaufm8kpxzr8.png" alt="">
+</a>
+</footer>
+</div>
+</body>
+
+</html>
